@@ -1,0 +1,5 @@
+.main  { display:flex; flex-direction: column; }
+.menu  { background: cadetblue; width:100%;}
+.meat  {background: blanchedalmond; width:100%;}
+li     {display:inline}
+li:after {content:" | " }
